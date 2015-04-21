@@ -1,0 +1,5 @@
+Git lets me...
+
+keep track of revisions of files.
+coordinate work with others.
+have a happier day!
